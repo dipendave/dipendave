@@ -1,23 +1,11 @@
-# Hi, I'm Dipen
+# Hey, I'm Dipen
 
-> A curious builder with strong opinions about systems, tools, and why most things could be simpler.
+I build systems that think — orchestration, evaluation, tooling, guardrails, and all the messy glue in between. If something has layers, abstractions, or knobs to turn, I'm probably already poking at it.
 
-## What I Do
+I care a lot about trade-offs. Speed vs clarity, flexibility vs correctness, and why the *boring* solution often wins. I learn for sport — deep dives into how things work, even when the thing is wildly unrelated to my day job. And I like explaining hard ideas simply, especially when the original explanation was overcomplicated or vibes-based.
 
-- **Build systems that think** — orchestration, evaluation, tooling, and the messy glue in between
-- **Go deep on trade-offs** — speed vs clarity, flexibility vs correctness, and why the boring solution often wins
-- **Explain hard ideas simply** — especially when the original explanation is overcomplicated
+Outside of work, I tinker. Software, hardware, workflows, the occasional over-engineered side project that absolutely did not need that level of effort. I take photos where I try to make ordinary scenes look intentional. I experiment with coffee — methodically, opinionately, and absolutely willing to redo everything for a 5% gain.
 
-## How I Work
-
-Systems thinker. Can go from high-level concept to nuts-and-bolts execution. Strong instinct for what's clean, maintainable, and future-proof. Will change my mind when evidence shows up.
-
-Clear goals, flexible paths. Autonomy over micromanagement. Problems that matter, even if they're hard.
-
-## Beyond Code
-
-Photography, coffee experimentation, sports strategy, and the occasional over-engineered side project.
-
----
+Not the loudest person in the room — but often the one connecting dots others missed.
 
 *A builder at heart. A skeptic by training. A nerd by choice.*
